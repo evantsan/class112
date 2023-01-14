@@ -1,0 +1,43 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+  font-family: 'Raleway', sans-serif;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+  font-family: 'Raleway', sans-serif;
+}
+.emotion_name
+{
+  font-size: 40px;
+  font-family: 'Raleway', sans-serif;
+}
+.emoji
+{
+  font-size:48px;
+}
+.lab
+{
+  color: rgb(78, 203, 96);
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+  font-size:35px !important;
+  letter-spacing: 15px !important;
+  font-family: 'Raleway', sans-serif;
+}
